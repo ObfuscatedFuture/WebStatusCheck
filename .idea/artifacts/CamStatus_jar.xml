@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CamStatus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CamStatus_jar</output-path>
+    <root id="archive" name="CamStatus.jar">
+      <element id="module-output" name="CamStatus" />
+    </root>
+  </artifact>
+</component>
